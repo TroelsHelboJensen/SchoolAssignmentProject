@@ -1,0 +1,107 @@
+Uge 19:
+Exercise:
+21.4 - (1) - done - afleveret
+21.5 - (1) - done - afleveret
+21.6 - (1) - done - afleveret
+21.11 - (1) - done - afleveret
+Project:
+21.6 - (3) - done - afleveret
+
+Uge 18:
+Exercise:
+11.14 - (1) - done - afleveret
+11.16 - (1) - done - afleveret
+11.18 - (1) - done - afleveret
+
+Uge 17:
+Exercise:
+25.4 - (1) -
+25.15 - (2) - done - afleveret
+25.18 - (2) -
+26.1 - (1) -
+26.2 - (1) -
+26.3 - (1) -
+Project:
+26.1 - (2) -
+26.6 - (3) -
+
+Uge 16:
+Project:
+StogsExercise2 - (2) - 
+
+Uge 15:
+Exercise:
+28.8 - (1) -
+29.8 - (1) -
+Project:
+28.3 - (1) - 
+29.1 - (2) - 
+29.2 - (2) - 
+StogsExercise1_medDijkstra - (3) -
+
+Uge 14:
+Project:
+23.2 - (2) - done - afleveret
+Exercise:
+23.4 - (2) - done - afleveret
+24.2 - (1) - done - afleveret
+Project:
+23.3 - (1) - done - afleveret
+24.1 - (1) - done - afleveret
+24.7 - (3) - done - afleveret
+
+Uge 13:
+Exercise:
+5.7 - (1) - done - afleveret
+5.8 - (1) - done - afleveret
+5.11 - (2) - done - afleveret
+6.9 - (1) - done - afleveret 
+Project:
+6.5 - (3) - done - afleveret
+Exercise:
+10.6 - (2) - done - afleveret
+10.12 - (2) - done - afleveret
+11.3 - (2) - done - afleveret
+11.6 - (1) - done - afleveret
+11.9 - (2) - done - afleveret
+
+Uge 10:
+Exercise:
+4.9 - (1) -  done - afleveret
+4.10 - (1) -  done - afleveret
+4.11 - (1) -  done - afleveret
+4.24 - (1) -  done - afleveret
+Project:
+4.2 - (1) - done - afleveret
+4.7 - (2) - done - afleveret
+Exercise:
+8.1 - (1) - done - afleveret
+8.2 - (1) - done - afleveret
+8.3 - (1) -  done - afleveret
+Project:
+8.4 - (2) - done - afleveret
+8.6 - (3) - done - afleveret
+
+Uge 07:
+Project:
+3 Letter Words - (3) - done - afleveret
+Find The Exit - (2) - 
+
+Uge 06:
+Exercise:
+4.5 - (1) - done - afleveret
+4.13 - (1) - done - afleveret
+Project:
+4.7 - (1) - done - afleveret
+4.12 - (2) - done - afleveret
+Exercise:
+9.10 - (1) - done - afleveret
+9.11 - (1) - done - afleveret
+Project:
+9.2 - (1) - done - afleveret
+9.3 - (2) - done - afleveret
+
+Uge 05:
+Project:
+TheGameOfLife - (3) - done - afleveret
+ZoffImZoo - (3) - done - afleveret
