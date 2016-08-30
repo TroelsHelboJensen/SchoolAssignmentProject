@@ -1,2 +1,2 @@
 # SchoolAssignmentProject
-This is a project made to get record of assignments done
+This is a "school assignment project", made to keep record of assignments done.
