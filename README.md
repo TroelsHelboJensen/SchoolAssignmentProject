@@ -1,17 +1,17 @@
-# SchoolAssignmentProject
+# School - Assignment - Project
 This is a "school assignment project", made to keep record of assignments done.
 
 This explanation is in Danish:
 
-Hvordan bruges dette lille værktøj?
+Hvordan bruges dette lille vÃ¦rktÃ¸j?
  
 
-Der er her en kildekode til at holde styr på dine opgaver.
+Der er her en kildekode til at holde styr pÃ¥ dine opgaver.
  
-Mappe Strukturen burde være i orden.
+Mappe Strukturen burde vÃ¦re i orden.
 
 
-Der følger med:
+Der fÃ¸lger med:
 
 	1 README.txt
 
